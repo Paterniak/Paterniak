@@ -4,10 +4,8 @@
 - 📫 How to reach me Discord - Paterniak#3301 and u/Paterrrr21
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak">
 
 
 
