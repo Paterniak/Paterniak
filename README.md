@@ -3,7 +3,7 @@
 - 🛠 I’m currently learning basics of pentesting
 - 📫 Contact:   
 - Discord - Paterniak#3301 
-- Reddit u/Paterrrr21
+- Reddit u/Paterrrr21 <br><br>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
