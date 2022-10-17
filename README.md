@@ -7,7 +7,7 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
-<img align="left" width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=paterniak&layout=compact"><br><br><br><br><br><br><br><br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak&layout=compact"><br><br><br><br><br><br><br><br>
 
 <h4> I mainly use </h4>
 <img align="left" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
