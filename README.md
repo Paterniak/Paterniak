@@ -12,7 +12,7 @@
 <h3><b>I Mainly Use </b></h3>
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img align="left" src="[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)">
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 <br><br>
 
 <h3><b>Understanding</b></h3>
