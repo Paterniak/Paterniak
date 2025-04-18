@@ -1,9 +1,6 @@
 - 😄 Hello, I’m Paterniak
-- 🤔 I’m interested mainly in creating websites and trying simple things in other languages
-- 🛠 I’m currently making some website project
-- 📫 Contact:   
-- Discord - Paterniak#3301 
-- Reddit u/Paterrrr21 <br><br>
+- 🛠 I’m currently learning cybersecurity and app development
+- 📫 Contact: Hidden
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
