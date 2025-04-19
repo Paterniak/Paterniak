@@ -3,7 +3,7 @@
 - 📫 Contact: Hidden
 
 <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak&layout=compact&theme=dracula&count_private=true">
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <h3><b>I Mainly Use </b></h3>
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
