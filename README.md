@@ -4,7 +4,7 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak&layout=compact"><br><br><br><br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak)](https://github.com/anuraghazra/github-readme-stats)<br><br><br><br><br><br><br><br>
 
 <h3><b>I Mainly Use </b></h3>
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
