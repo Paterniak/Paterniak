@@ -2,8 +2,6 @@
 - 🛠 I’m currently learning cybersecurity and app development
 - 📫 Contact: Hidden
 
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
 <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak&layout=compact&theme=dracula&count_private=true">
 <br><br><br><br><br><br><br><br>
 
