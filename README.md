@@ -4,7 +4,7 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Paterniak&show_icons=true&theme=dark">
-<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwojaNazwaUżytkownika&layout=compact&theme=dracula&count_private=true">
+<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paterniak&layout=compact&theme=dracula&count_private=true">
 <br><br><br><br><br><br><br><br>
 
 <h3><b>I Mainly Use </b></h3>
